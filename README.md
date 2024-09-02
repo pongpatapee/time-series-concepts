@@ -42,3 +42,7 @@ It is a method/algorithm used to predict future data based on historical data, b
 
 - Original [code](https://github.com/ritvikmath/Time-Series-Analysis) from ritvikmath
 - Time series youtube [playlist](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)
+
+- Other resources:
+  - [Medium article](https://medium.com/@wainaina.pierre/the-complete-guide-to-time-series-forecasting-models-ef9c8cd40037) on time series forecasting models
+  - [Magnite's blog](https://www.magnite.com/blog/unlocking-the-benefits-of-forecasting-an-engineering-perspective/) on engineering of forecasting models
