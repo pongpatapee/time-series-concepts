@@ -14,7 +14,13 @@ Ex: stock prices, weather data, sensory data, sales data (ad-tech)
 
 It is a method/algorithm used to predict future data based on historical data, by capturing patterns like _trends_, _seasonality_, and _cyclic behavior_ in historical data. Takes into account the sequential nature of data, where each observation is dependent on the previous.
 
-### Stationality
+### Stationarity
+
+To apply our AR, MA, ARMA, ARIMA models to a time series data, the data must be `stationary`. Stationarity is defined as the time series data having the following statistical properties:
+
+1. Constant mean
+2. Constant variance/std dev
+3. No seasonal component
 
 ## Types of Models and examples
 
@@ -24,6 +30,7 @@ It is a method/algorithm used to predict future data based on historical data, b
 - Moving Average (MA)
 - ARMA (Auto Regressive Moving Average)
 - ARIMA (Auto Regressive Integrated Moving Average)
+- SARIMA (Seasonal Auto Regressive Integrated Moving Average)
 - Holt-Winter Exponential Smoothing
 - VAR (Vector Auto Regressive)
 - Prophet
@@ -33,10 +40,12 @@ It is a method/algorithm used to predict future data based on historical data, b
 
 - Random Forest
 - Gradient Boosting
+- XGBoost 
 - LSTMs
 - CNNs
 - Temporal Fusion Transformer (TFT)
 - Neural Prophet
+- TimesFm (Time Series Foundational Model)
 
 ## Credit / Resources
 
