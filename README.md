@@ -40,7 +40,7 @@ It is a method/algorithm used to predict future data based on historical data, b
 
 ## Credit / Resources
 
-- Original [code](https://github.com/ritvikmath/Time-Series-Analysis) from ritvikmath
+- Reference [code](https://github.com/ritvikmath/Time-Series-Analysis) from ritvikmath
 - Time series youtube [playlist](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)
 
 - Other resources:
